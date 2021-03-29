@@ -8,8 +8,11 @@
 
 ![](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&labelColor=777bb3&logoColor=fff) ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![](https://img.shields.io/badge/-Python-356c99?style=flat-square&logo=python&labelColor=356c99&logoColor=fff)
 
+
 <a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
 
 ## Get in touch
 
 [![](https://img.shields.io/badge/-@_TennousuAthena-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/_TennousuAthena) [![](https://img.shields.io/badge/-https://lemoe.cn-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://lemoe.cn) [![](https://img.shields.io/badge/-t.me/qingcaomc-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/s/qctech_news) [![](https://img.shields.io/badge/-github@TennousuAthena-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](https://github.com/TennousuAthena) [![](https://img.shields.io/badge/-@TennousuAthena@x61.uk-2f86d3?style=flat-square&logo=mastodon&logoColor=white&labelColor=2f86d3)](https://x61.uk/@TennousuAthena)
+
+![](https://img.shields.io/badge/GnuPG-F5C652190F0A0F0F-informational?style=flat-square)
