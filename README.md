@@ -4,7 +4,7 @@
 
 ### Tennousu Athena
 
-> 👦 A common Danshikousei in China 
+> 👦 A common <s>Danshikousei (expired)</s> undergraduate in China 
 
 ![](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&labelColor=777bb3&logoColor=fff) ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![](https://img.shields.io/badge/-Python-356c99?style=flat-square&logo=python&labelColor=356c99&logoColor=fff)
 
