@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">An open-source workbench</title>
+  <desc id="desc">Six everyday tools: browser search, a revived desktop display, ECG recording, Cantonese lessons, clipboard history, and video notes.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#25342c" stroke-width="1"/>
+    </pattern>
+    <clipPath id="corners"><rect width="1200" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#corners)">
+    <rect width="1200" height="260" fill="#19231f"/>
+    <rect width="1200" height="260" fill="url(#grid)"/>
+    <g stroke="#c6d7c9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <!-- A browser window: several sources become a single result list. -->
+      <g transform="translate(38 49) rotate(-3 138 82)">
+        <rect width="276" height="165" rx="10" fill="#26382d"/>
+        <path d="M0 25H276" fill="none" stroke="#738b79"/>
+        <g fill="#738b79" stroke="none"><circle cx="14" cy="13" r="2.5"/><circle cx="24" cy="13" r="2.5"/><circle cx="34" cy="13" r="2.5"/></g>
+        <rect x="23" y="43" width="230" height="30" rx="15" fill="#19231f" stroke="#a6ceaa"/>
+        <circle cx="40" cy="57" r="5" fill="none" stroke="#a6ceaa"/><path d="m44 61 4 4" stroke="#a6ceaa"/>
+        <path d="M59 57H134" stroke="#738b79"/>
+        <g fill="#a6ceaa" stroke="none"><rect x="25" y="91" width="9" height="9" rx="2"/><rect x="25" y="116" width="9" height="9" rx="2"/><rect x="25" y="141" width="9" height="9" rx="2"/></g>
+        <g stroke="#738b79"><path d="M45 94H201M45 102H149M45 119H225M45 127H179M45 144H184"/></g>
+      </g>
+      <!-- ThinkSmart View: a clock and media tiles on an older device. -->
+      <g transform="translate(343 62)">
+        <path d="m17 105-9 40h175l-11-40" fill="#3b5640"/>
+        <rect width="190" height="128" rx="17" fill="#33473a"/>
+        <rect x="11" y="11" width="168" height="96" rx="8" fill="#203327" stroke="#738b79"/>
+        <text x="29" y="59" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="31" fill="#a6ceaa" stroke="none">12:08</text>
+        <g fill="#3b5640" stroke="none"><rect x="27" y="76" width="39" height="15" rx="4"/><rect x="75" y="76" width="32" height="15" rx="4"/><rect x="116" y="76" width="45" height="15" rx="4"/></g>
+        <circle cx="95" cy="118" r="2" fill="#738b79" stroke="none"/>
+      </g>
+      <!-- ECG recorder: the trace stays within a phone screen. -->
+      <g transform="translate(563 40) rotate(5 45 90)">
+        <rect width="89" height="181" rx="17" fill="#33473a"/>
+        <rect x="7" y="8" width="75" height="164" rx="11" fill="#26382d" stroke="none"/>
+        <path d="M34 15H55" stroke="#738b79" stroke-width="3"/>
+        <path d="M18 51H36M18 61H59M18 144H39M18 152H54" stroke="#738b79"/>
+        <path d="M13 107H28l5-8 5 16 7-41 7 58 6-25h18" fill="none" stroke="#a6ceaa" stroke-width="2.5"/>
+        <path d="M34 162H55" stroke="#738b79" stroke-width="3"/>
+      </g>
+      <!-- A Cantonese lesson, with syllables aligned to the characters. -->
+      <g transform="translate(688 46) rotate(-6 62 83)">
+        <path d="M0 0H106l20 20v144H0Z" fill="#26382d"/>
+        <path d="M106 0v20h20" fill="#69603c"/>
+        <text x="17" y="51" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="11" fill="#a6ceaa" stroke="none">nei5 hou2</text>
+        <text x="16" y="84" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="30" fill="#c6d7c9" stroke="none">你好</text>
+        <path d="M18 107H104M18 118H80" stroke="#738b79"/>
+        <circle cx="28" cy="140" r="9" fill="#3b5640" stroke="#a6ceaa"/>
+        <path d="m26 136 6 4-6 4Z" fill="#a6ceaa" stroke="none"/>
+        <path d="M47 136v8m6-12v16m6-13v10m6-16v22m6-17v12m6-9v6m6-12v18m6-13v8m6-6v4" stroke="#a6ceaa"/>
+      </g>
+      <!-- A clipboard with a pinned item and a searchable history. -->
+      <g transform="translate(847 64) rotate(4 54 74)">
+        <rect width="107" height="148" rx="8" fill="#69603c"/>
+        <rect x="9" y="10" width="89" height="128" rx="3" fill="#26382d" stroke="none"/>
+        <path d="M35-5h37v18H35Z" fill="#3b5640"/>
+        <rect x="19" y="36" width="69" height="22" rx="4" fill="#3b5640" stroke="none"/>
+        <path d="M29 47H76M29 76H77M29 86H63M29 108H74M29 118H57" stroke="#738b79"/>
+        <path d="M18 74h1m-1 32h1" stroke="#a6ceaa" stroke-width="3"/>
+      </g>
+      <!-- A video frame becomes a page of notes. -->
+      <g transform="translate(988 56) rotate(-3 85 74)">
+        <rect x="18" y="42" width="135" height="119" rx="5" fill="#26382d"/>
+        <path d="M37 123H132M37 134H113M37 145H124" stroke="#738b79"/>
+        <rect width="170" height="105" rx="8" fill="#203327"/>
+        <rect x="9" y="9" width="152" height="67" rx="3" fill="#3b5640" stroke="none"/>
+        <path d="M9 64 44 35l29 22 32-33 56 40" fill="none" stroke="#a6ceaa"/>
+        <circle cx="85" cy="43" r="15" fill="#26382d" stroke="#a6ceaa"/>
+        <path d="m82 36 10 7-10 7Z" fill="#a6ceaa" stroke="none"/>
+        <path d="M14 90H155" stroke="#738b79"/>
+        <path d="M14 90H69" stroke="#a6ceaa" stroke-width="3"/>
+        <circle cx="69" cy="90" r="3" fill="#a6ceaa" stroke="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
