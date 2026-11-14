@@ -4,27 +4,18 @@
 
 ### TennousuAthena
 
-> An open-source tinkerer building apps and tools for everyday life.
+> Building open-source apps and tools for everyday life.
 
-![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
-![](https://img.shields.io/badge/-Python-356c99?style=flat-square&logo=python&labelColor=356c99&logoColor=fff)
-![](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&labelColor=777bb3&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Languages:** Python · TypeScript / JavaScript · C / C++ · Go · Java / Kotlin · Swift · Dart · ArkTS · Lua · SQL · MATLAB · Verilog HDL.
-
-**Frameworks:** React · Flutter · SwiftUI · ArkUI · Qt / QML · Three.js · GSAP · Tailwind CSS · PyTorch · FastAPI · Flask.
-
-**Tools & platforms:** Docker · Kubernetes · PostgreSQL · Redis · Cloudflare Workers / R2 · Bun · Vite · MCP · Android · HarmonyOS · STM32 / FreeRTOS.
-
-## Open-source projects
-
-- [Kiwi Search](https://github.com/TennousuAthena/kiwisearch) — Multi-source browser search with AI overviews and a local MCP server.
-- [ThinkOS](https://github.com/TennousuAthena/ThinkOS) — Native Android UI, Lua plugins, and media playback for ThinkSmart View.
-- [OpenECG](https://github.com/TennousuAthena/OpenECG) — ECG recording, analysis, and export from Polar H10 on iOS.
-- [YueBuddy](https://github.com/TennousuAthena/YueBuddy) — Cantonese lessons with Jyutping and original audio.
-- [ClipClap](https://github.com/TennousuAthena/ClipClap) — Local clipboard history for HarmonyOS PC.
-- [videoQuickNote](https://github.com/TennousuAthena/videoQuickNote) — Local videos to Markdown notes with transcripts and key frames.
+Projects: [Kiwi Search](https://github.com/TennousuAthena/kiwisearch) · [ThinkOS](https://github.com/TennousuAthena/ThinkOS) · [OpenECG](https://github.com/TennousuAthena/OpenECG) · [YueBuddy](https://github.com/TennousuAthena/YueBuddy) · [ClipClap](https://github.com/TennousuAthena/ClipClap) · [videoQuickNote](https://github.com/TennousuAthena/videoQuickNote)
 
 Research in AI for medicine → [Homepage](https://zhuoyuan.li/) · [Lab](https://github.com/zhuoyuanli-lab)
 
