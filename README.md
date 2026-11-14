@@ -24,11 +24,3 @@ Research in AI for medicine → [Homepage](https://zhuoyuan.li/) · [Lab](https:
 [![](https://img.shields.io/badge/-@_TennousuAthena-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/_TennousuAthena)
 [![](https://img.shields.io/badge/-https://lemoe.cn-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://lemoe.cn)
 [![](https://img.shields.io/badge/GnuPG-F5C652190F0A0F0F-informational?style=flat-square)](https://pgp.lemoe.cn/public.asc)
-
-### Comments
-
-<a href="https://chat.qmcmc.cn/room/@athena">
-  
-![](https://chat.qmcmc.cn/room/@athena/svg?width=600&height=100&limit=10&theme&fontSize=14&title=comments:%20~)
-  
-</a>
